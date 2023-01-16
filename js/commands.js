@@ -6,13 +6,16 @@ var email = 'mailto:guilhermesantosespind@gmail.com';
 whois = [
   "<br>",
   "Hey, I'm Guilherme santos!",
-  "I'm a software developer and content creator, who builds engaging websites like this one",
+  "A backend developer and computer science student",
+  "My main goal is to take the next step as a developer",
+  "finding a place to work and learn something I'm passionate",
+  "about in a company that values ​​teamwork and a constant learning environment.",
   "<br>"
 ];
 
 whoami = [
   "<br>",
-  "The paradox of Who am I? we never know, but, we constantly find out.",
+  "The paradox of Who am I? we never know, but, if it satisfies you, you are you.",
   "<br>"
 ];
 
@@ -40,12 +43,12 @@ help = [
   '<span class="command">whois</span>          Who is Guilherme Santos??',
   '<span class="command">whoami</span>         Who are You?',
   '<span class="command">social</span>         Display social networks',
-  '<span class="command">secret</span>         Find the password',
-  '<span class="command">projects</span>       View coding projects',
-  '<span class="command">history</span>        View command history',
-  '<span class="command">help</span>           You obviously already know what this does',
   '<span class="command">email</span>          Do not email me',
+  '<span class="command">projects</span>       View coding projects',
+  '<span class="command">help</span>           You obviously already know what this does',
   '<span class="command">banner</span>         Display the header',
+  '<span class="command">history</span>        View command history',
+  '<span class="command">secret</span>         Find the password',
   '<span class="command">clear</span>          Clear terminal',
   "<br>",
 ];

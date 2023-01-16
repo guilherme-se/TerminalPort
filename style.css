@@ -61,7 +61,7 @@ body {
   }
   #liner::before {
     color: #519975;
-    content: "GSE@DESKTOP:~$";
+    content: "GSE@laptop:~$";
   }
   #liner.password::before {
     content: "Password:";
