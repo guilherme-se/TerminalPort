@@ -3,6 +3,16 @@ var linkedin = "https://www.linkedin.com/in/guilherme-santos-espindula/";
 var github = "https://github.com/guilherme-se";
 var email = 'mailto:guilhermesantosespind@gmail.com';
 
+stack = [
+  "<br>",
+  "HTML/CSS",
+  "JAVA",
+  "PYTHON",
+  "GIT/GITHUB/BITBUCKET",
+  "LINUX",
+  "<br>"
+];
+
 whois = [
   "<br>",
   "Hey, I'm Guilherme santos!",
@@ -42,9 +52,10 @@ help = [
   "<br>",
   '<span class="command">whois</span>          Who is Guilherme Santos??',
   '<span class="command">whoami</span>         Who are You?',
+  '<span class="command">stack</span>          Some things i worked',
+  '<span class="command">projects</span>       View my coding projects',
   '<span class="command">social</span>         Display social networks',
-  '<span class="command">email</span>          Do not email me',
-  '<span class="command">projects</span>       View coding projects',
+  '<span class="command">email</span>          Send me a email ;D',
   '<span class="command">help</span>           You obviously already know what this does',
   '<span class="command">banner</span>         Display the header',
   '<span class="command">history</span>        View command history',

@@ -17,7 +17,7 @@ setTimeout(function() {
 window.addEventListener("keyup", enterKey);
 
 console.log(
-  "%c Omg you hacked my password! ",
+  "%c Omg you hacked my password!",
   "color: #04ff00; font-weight: bold; font-size: 24px;"
 );
 console.log("%cPassword: '" + password + "' - I wonder what it does?”", "color: grey");
@@ -82,6 +82,9 @@ function commander(cmd) {
   switch (cmd.toLowerCase()) {
     case "help":
       loopLines(help, "color2 margin", 80);
+      break;
+    case "stack":
+      loopLines(stack, "color2 margin", 80);
       break;
     case "whois":
       loopLines(whois, "color2 margin", 80);

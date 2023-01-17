@@ -1,21 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800&display=swap');
+
 body {
     margin: 0;
     padding: 15px 20px;
     min-height: 99%;
     width: 100%;
     min-width: 550px;
-    color: #519975;
-    background: #211D1B;
+    color:#7fd031;
+    background: #300a24;
     font-family: cursor, monospace;
     overflow-x: hidden;
   }
   ::selection {
     color: #211830;
-    background-color: #519975;
+    background-color: #7fd031;
   }
   ::-moz-selection {
     color: #211830;
-    background-color: #519975;
+    background-color:#7fd031;
   }
   textarea {
     left: -1000px;
@@ -60,7 +62,7 @@ body {
     opacity: 0;
   }
   #liner::before {
-    color: #519975;
+    color:#7fd031;
     content: "GSE@laptop:~$";
   }
   #liner.password::before {
@@ -103,14 +105,14 @@ body {
     color: #DCDCCC;
   }
   .color2 {
-    color: #B89076;
+    color: #fff;
   }
   .command {
-    color: #73ABAD;
-    text-shadow: 0 0 5px #73ABAD; 
+    color: #3465a4;
+    text-shadow: 0 0 5px #3465a4; 
   }
   .error {
-    color: #B89076;
+    color: #fff;
   }
   .white {
     color: #fff;
