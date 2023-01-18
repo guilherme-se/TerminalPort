@@ -2,6 +2,7 @@ var password = "hired";
 var linkedin = "https://www.linkedin.com/in/guilherme-santos-espindula/";
 var github = "https://github.com/guilherme-se";
 var email = 'mailto:guilhermesantosespind@gmail.com';
+var resume = 'images/resume.pdf';
 
 stack = [
   "<br>",
@@ -10,6 +11,12 @@ stack = [
   "PYTHON",
   "GIT/GITHUB/BITBUCKET",
   "LINUX",
+  "<br>"
+];
+
+resume = [
+  "<br>",
+  'resume         <a href="' + resume + '" target="_blank">My Resume here' + "</a>",
   "<br>"
 ];
 
@@ -57,7 +64,7 @@ whois = [
 
 whoami = [
   "<br>",
-  "The paradox of Who am I? we never know, but, if it satisfies you, you are you.",
+  "The paradox of Who am I? we never know, but, if it satisfies, you are you.",
   "<br>"
 ];
 
@@ -87,6 +94,7 @@ help = [
   '<span class="command">stack</span>          Some things i worked',
   '<span class="command">projects</span>       View my coding projects',
   '<span class="command">social</span>         Display social networks',
+  '<span class="command">resume</span>         A resume about me',
   '<span class="command">email</span>          Send me a email ;D',
   '<span class="command">help</span>           You obviously already know what this does',
   '<span class="command">banner</span>         Display the header',
@@ -107,11 +115,11 @@ banner = [
   "             @@ @@ @@ @@  @@@@@  ",
   "             @@_@@_::_@@_:@@@@@  ",
   "             @@:::,::,:::::@@@@  ",
-  "             @@`:::::::::'`@@@@                  ________  ________    __  ____________  __  _________   _____ ___    _   ____________  _____",
-  "            .@@  `::::'    @:@@.                / ____/ / / /  _/ /   / / / / ____/ __ \\/  |/  / ____/  / ___//   |  / | / /_  __/ __ \\/ ___/",
-  "           @@@@            `@:@@@.             / / __/ / / // // /   / /_/ / __/ / /_/ / /|_/ / __/     \\__ \\/ /| | /  |/ / / / / / / /\\__ \\",
-  "         .@@@@'             `@@@@@@.          / /_/ / /_/ // // /___/ __  / /___/ _, _/ /  / / /___    ___/ / ___ |/ /|  / / / / /_/ /___/ /",
-  "        .@@@@:              '@@@@@@@:.        \\____/\\____/___/_____/_/ /_/_____/_/ |_/_/  /_/_____/   /____/_/  |_/_/ |_/ /_/  \\____//____/",
+  "             @@`:::::::::'`@@@@             ________  ________    __  ____________  __  _________   _____ ___    _   ____________  _____",
+  "            .@@  `::::'    @:@@.           / ____/ / / /  _/ /   / / / / ____/ __ \\/  |/  / ____/  / ___//   |  / | / /_  __/ __ \\/ ___/",
+  "           @@@@            `@:@@@.        / / __/ / / // // /   / /_/ / __/ / /_/ / /|_/ / __/     \\__ \\/ /| | /  |/ / / / / / / /\\__ \\",
+  "         .@@@@'             `@@@@@@.     / /_/ / /_/ // // /___/ __  / /___/ _, _/ /  / / /___    ___/ / ___ |/ /|  / / / / /_/ /___/ /",
+  "        .@@@@:              '@@@@@@@:.   \\____/\\____/___/_____/_/ /_/_____/_/ |_/_/  /_/_____/   /____/_/  |_/_/ |_/ /_/  \\____//____/",
   "       .@@@@.                :`@@:@@@@@       ____  ___   ________ __ _______   ______     ____  _______    __________    ____  ____  __________   ",
   "      .@@@@                   .@@@:@@@@.     / __ )/   | / ____/ //_// ____/ | / / __ \\   / __ \\/ ____/ |  / / ____/ /   / __ \\/ __ \\/ ____/ __ \\ ",
   "     @@@:@                     @@@:@@@@@    / __  / /| |/ /   / ,<  / __/ /  |/ / / / /  / / / / __/  | | / / __/ / /   / / / / /_/ / __/ / /_/ /",
