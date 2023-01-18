@@ -1,4 +1,4 @@
 # TerminalPort
-## a terminal using html/css and js with ascii art
+## a interactive terminal using html/css and js with ascii art
 
 ![image](https://user-images.githubusercontent.com/81692269/213211739-a6a24d5b-b93e-4c11-b495-d67c3f71f414.png)
