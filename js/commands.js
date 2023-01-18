@@ -64,7 +64,7 @@ whois = [
 
 whoami = [
   "<br>",
-  "The paradox of Who am I? we never know, but, if it satisfies, you are you.",
+  "The paradox of Who am I? We never know. But, if it suffices, you are you.",
   "<br>"
 ];
 
@@ -91,10 +91,10 @@ help = [
   "<br>",
   '<span class="command">whois</span>          Who is Guilherme Santos??',
   '<span class="command">whoami</span>         Who are You?',
-  '<span class="command">stack</span>          Some things i worked',
+  '<span class="command">techstack</span>      The technologies I use',
   '<span class="command">projects</span>       View my coding projects',
   '<span class="command">social</span>         Display social networks',
-  '<span class="command">resume</span>         A resume about me',
+  '<span class="command">myresume</span>       A resume about me',
   '<span class="command">email</span>          Send me a email ;D',
   '<span class="command">help</span>           You obviously already know what this does',
   '<span class="command">banner</span>         Display the header',
