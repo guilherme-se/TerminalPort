@@ -83,10 +83,10 @@ function commander(cmd) {
     case "help":
       loopLines(help, "color2 margin", 80);
       break;
-    case "stack":
+    case "techstack":
       loopLines(stack, "color2 margin", 80);
       break;
-    case "resume":
+    case "myresume":
       loopLines(resume, "color2 margin", 80);
       break;
     case "whois":
