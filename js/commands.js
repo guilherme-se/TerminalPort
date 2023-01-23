@@ -4,19 +4,21 @@ var github = "https://github.com/guilherme-se";
 var email = 'mailto:guilhermesantosespind@gmail.com';
 var resume = 'images/resume.pdf';
 
-stack = [
+techstack = [
   "<br>",
   "HTML/CSS",
   "JAVA",
   "PYTHON",
+  "MySQL",
   "GIT/GITHUB/BITBUCKET",
   "LINUX",
   "<br>"
 ];
 
-resume = [
+myresume = [
   "<br>",
-  'resume         <a href="' + resume + '" target="_blank">My Resume here' + "</a>",
+  'resume         <a href="' + resume + '" target="_blank">My Resume ' + "</a>",
+  '                  👆 click here',
   "<br>"
 ];
 
